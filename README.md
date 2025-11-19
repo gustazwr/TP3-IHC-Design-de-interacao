@@ -17,6 +17,6 @@ Trabalho Prático 3 - Parte 2 - Design de Interação - Engenharia de Software
 
 ## 📝 Resumo do sistema
 Breve descrição aqui:  
-> O TP3 tem como objetivo aplicar os conceitos de Interação Humano–Computador nas fases de Imersão e Definição, por meio do desenvolvimento de um Sistema de Gestão de Academia.
-O projeto busca entender as necessidades reais de usuários, como personais e alunos, e propor soluções que tornem o sistema eficiente e fácil de usar.
-A primeira etapa contou com um briefing com uma personal trainer, servindo como base para as próximas fases: Matriz CSD, Benchmarking, Personas, Jornada do Usuário e Priorização com MoSCoW.
+> O **TP3 parte 2** tem como objetivo aplicar conceitos de Interação Humano-Computador na etapa de Design de Interação, representando como o usuário irá utilizar o sistema.
+> Nossa equipe produziu: a metamensagem, os mapas de objetivos das personas, ao menos 8 HTAs, os diagramas MoLIC e 5 sketches de baixa fidelidade.
+O objetivo final é apresentar, de forma clara e integrada, como o sistema apoia os objetivos dos usuários e como a interação acontece na prática.
