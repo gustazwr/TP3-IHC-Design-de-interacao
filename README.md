@@ -8,12 +8,11 @@ Trabalho Prático 3 - Parte 2 - Design de Interação - Engenharia de Software
 - Adriano Monteiro Rolim — 22551471
 
 ## 📂 Estrutura do repositório
-- [1 - Briefing](1-briefing)  
-- [2 - Matriz-CSD](2-matriz-csd)  
-- [3 - Benchmarking](3-benchmarking)  
-- [4 - Personas](4-personas)  
-- [5 - Jornada do Usuario](5-jornada-do-usuario)  
-- [6 - Moscow](6-moscow)  
+- [1 - Metamensagem](1-metamensagem)  
+- [2 - MApas-Objetivos](2-mapas-objetivos)  
+- [3 - HTAs](3-htas)  
+- [4 - Diagramas-MoliC](4-molic)  
+- [5 - Esboços](5-esboco)    
 
 ## 📝 Resumo do sistema
 Breve descrição aqui:  
