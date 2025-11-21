@@ -15,7 +15,7 @@
 | **O que o sistema sugere, permite e proíbe** | **Sugere:** uso de atalhos, filtros e navegação visual <br> **Permite:** adicionar, editar e visualizar dados <br> **Proíbe:** exclusões sem confirmação e ações sensíveis sem autenticação |
 | **Como o sistema orienta, informa e corrige o usuário** | - Feedback imediato <br> - Mensagens claras de sucesso <br> - Avisos informativos <br> - Erros explicados em linguagem simples <br> - Confirmações em ações críticas |
 
-## VERSÃO NARRATIVA – Metamensagem TrainerX64
+## **VERSÃO NARRATIVA** – Metamensagem TrainerX64
 
 
 "Caro(a) usuário(a) do TrainerX64, eu entendi que você, como personal trainer, utiliza tecnologia diariamente e valoriza ferramentas visuais, simples e rápidas. Sei que você busca modernizar o acompanhamento dos seus alunos, mantendo uma rotina profissional mais organizada, produtiva e fácil de administrar.
