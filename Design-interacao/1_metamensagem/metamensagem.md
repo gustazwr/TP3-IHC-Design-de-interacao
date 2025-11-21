@@ -15,12 +15,18 @@
 | **O que o sistema sugere, permite e proíbe** | **Sugere:** uso de atalhos, filtros e navegação visual <br> **Permite:** adicionar, editar e visualizar dados <br> **Proíbe:** exclusões sem confirmação e ações sensíveis sem autenticação |
 | **Como o sistema orienta, informa e corrige o usuário** | - Feedback imediato <br> - Mensagens claras de sucesso <br> - Avisos informativos <br> - Erros explicados em linguagem simples <br> - Confirmações em ações críticas |
 
-# VERSÃO NARRATIVA – Metamensagem TrainerX64
-O TrainerX64 foi projetado para atender personal trainers que utilizam tecnologia diariamente e valorizam ferramentas visuais, simples e rápidas. O sistema assume que esse usuário é organizado, comunicativo e busca modernizar o acompanhamento dos seus alunos com uma experiência digital eficiente.
+## VERSÃO NARRATIVA – Metamensagem TrainerX64
 
-O TrainerX64 entende que o personal deseja centralizar informações importantes — treinos, histórico de cargas, pagamentos e comunicação — evitando depender de vários aplicativos diferentes. Por isso, o sistema oferece uma experiência enxuta, com busca rápida por aluno, acesso imediato às fichas, controles financeiros claros e um ambiente visual intuitivo.
 
-O sistema espera que o usuário realize suas ações de forma linear e direta, navegando por ícones e abas simples, registrando treinos e atualizando informações com poucos passos. Para manter o foco profissional, o TrainerX64 evita distrações e limita ações que poderiam comprometer dados importantes, exigindo confirmações para exclusões e autenticações para qualquer operação sensível.
+"Caro(a) usuário(a) do TrainerX64, eu entendi que você, como personal trainer, utiliza tecnologia diariamente e valoriza ferramentas visuais, simples e rápidas. Sei que você busca modernizar o acompanhamento dos seus alunos, mantendo uma rotina profissional mais organizada, produtiva e fácil de administrar.
 
-A comunicação entre sistema e usuário acontece por feedbacks visuais, mensagens claras, avisos de erro bem explicados e orientações rápidas que evitam dúvidas. O TrainerX64 busca transmitir clareza, produtividade e organização, ajudando o personal a trabalhar de forma mais prática, moderna e eficiente.
+Com base nas suas necessidades, eu criei o TrainerX64, um sistema pensado para centralizar tudo aquilo que é essencial no seu trabalho: treinos, histórico de cargas, pagamentos, evolução e comunicação. Minha intenção é evitar que você dependa de vários aplicativos diferentes para fazer tarefas básicas, oferecendo um ambiente único, enxuto e intuitivo, onde tudo está sempre ao seu alcance.
+
+Aqui, você consegue encontrar rapidamente qualquer aluno, visualizar sua ficha completa, acompanhar seu progresso e fazer atualizações com poucos passos. Para garantir fluidez, organizei as funcionalidades em abas visuais e diretas, permitindo que você navegue de forma linear e sem distrações. Assim, você fica no controle do seu trabalho, economizando tempo e evitando retrabalhos.
+
+Também sei que a segurança e a clareza são importantes no seu dia a dia. Por isso, o TrainerX64 evita ações que possam comprometer dados importantes, exigindo confirmações em exclusões e autenticações em operações sensíveis. Cada informação é comunicada de forma transparente por meio de mensagens claras, avisos explicativos, feedback visual imediato e orientações rápidas.
+
+Com o TrainerX64, a proposta é tornar sua rotina mais prática, moderna e eficiente. Meu objetivo é ajudar você a trabalhar com mais organização, produtividade e confiança — permitindo que cada atualização, cada consulta e cada decisão aconteça da maneira mais simples e profissional possível."
+
+
 
