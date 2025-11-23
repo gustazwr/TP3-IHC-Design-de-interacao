@@ -11,9 +11,6 @@ Possui **todas as funcionalidades do Aluno (A)**
 ## P — Personal Trainer
 Cria treinos, ajusta cargas, visualiza desempenho e orienta o aluno.
 
-## S — Suporte
-Resolve problemas técnicos e fornece assistência ao usuário.
-
 ### Convenção do Mapa
 [A | AA] → Objetivo compartilhado  
 AA → Objetivo exclusivo de acessibilidade  
