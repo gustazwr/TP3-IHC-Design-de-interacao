@@ -12,7 +12,7 @@ Trabalho Prático 3 - Parte 2 - Design de Interação - Engenharia de Software
 - [2 – Mapas-Objetivos](Design-interacao/2_mapas-objetivos.md)
 - [3 – HTAs](Design-interacao/3_HTAs.md)
 - [4 – Diagramas-MoliC](Design-interacao/4_diagramas-MoLIC.md)
-- [5 – Sketches](5_sketches.md)
+- [5 – Sketches](Design-interacao/5_sketches.md)
     
 
 ## 📝 Resumo do sistema
