@@ -1,10 +1,10 @@
 # Metamensagem do Sistema – TrainerX64
 
-## Template – Engenharia Semiótica
+## Personal Trainer – Engenharia Semiótica
 
 | Elemento do Template | Descrição Preenchida |
 |----------------------|-----------------------|
-| ![Quem é o usuário](https://img.shields.io/badge/Quem%20é%20o%20usuário-brightgreen) | Personal trainer que atende diversos alunos e usa ferramentas digitais para organizar treinos, rotinas, agendas e evolução. |
+| **Quem é o usuário** | Personal trainer que atende diversos alunos e usa ferramentas digitais para organizar treinos, rotinas, agendas e evolução. |
 | **O que o usuário quer fazer** | Modernizar o acompanhamento dos clientes, organizar sua rotina e centralizar informações em uma ferramenta intuitiva. |
 | **O que o usuário sabe fazer** | - Usa Android e notebook diariamente <br> - Prefere interfaces visuais como Trello e Google Agenda <br> - Evita apps com menus excessivos e anúncios <br> - Aprende explorando sozinho <br> - Usa tutoriais no primeiro contato <br> - Memoriza ícones e cores melhor que textos longos <br> - É comunicativo nas redes sociais profissionalmente |
 | **Como o usuário prefere fazer** | Com fluxos simples, diretos, poucos cliques e visual limpo. Utiliza smartphone e notebook como principais dispositivos. |
@@ -26,22 +26,32 @@ Aqui, você consegue encontrar rapidamente qualquer aluno, visualizar sua ficha 
 Também sei que a segurança e a clareza são importantes no seu dia a dia. Por isso, o TrainerX64 evita ações que possam comprometer dados importantes, exigindo confirmações em exclusões e autenticações em operações sensíveis. Cada informação é comunicada de forma transparente por meio de mensagens claras, avisos explicativos, feedback visual imediato e orientações rápidas.
 
 Com o TrainerX64, a proposta é tornar sua rotina mais prática, moderna e eficiente. Meu objetivo é ajudar você a trabalhar com mais organização, produtividade e confiança — permitindo que cada atualização, cada consulta e cada decisão aconteça da maneira mais simples e profissional possível."
-![TEXTO](https://img.shields.io/badge/TEXTO-brightgreen)
 
-![TEXTO](https://img.shields.io/badge/TEXTO-blue)
+-----
 
-![TEXTO](https://img.shields.io/badge/TEXTO-red)
+## Aluno – Engenharia Semiótica
 
-![TEXTO](https://img.shields.io/badge/TEXTO-orange)
+| Elemento do Template                                    | Descrição Preenchida                                                                                                                                                                                                                                  |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Quem é o usuário**                                    | Aluno que treina regularmente e utiliza o sistema para acessar treinos, registrar desempenho e acompanhar sua própria evolução.                                                                                                                       |
+| **O que o usuário quer fazer**                          | Seguir seus treinos de forma organizada, registrar cargas, monitorar resultados e manter contato simples com o personal.                                                                                                                              |
+| **O que o usuário sabe fazer**                          | - Usa smartphone no dia a dia <br> - Prefere interfaces diretas e rápidas <br> - Gosta de acompanhar evolução visualmente <br> - Sabe interagir com aplicativos de treino ou redes sociais <br> - Aprende explorando a interface intuitiva do sistema |
+| **Como o usuário prefere fazer**                        | Com poucos passos, visual claro, listas de exercícios acessíveis, botões diretos e histórico organizado.                                                                                                                                              |
+| **Quem é o designer/sistema**                           | Sistema projetado para auxiliar o aluno a treinar com autonomia, clareza e acompanhamento contínuo.                                                                                                                                                   |
+| **O que o sistema acredita que o usuário quer**         | Simplicidade para acessar a ficha de treino, registrar cargas e ver sua evolução sem confusão ou excesso de telas.                                                                                                                                    |
+| **O que o sistema oferece para o usuário fazer**        | - Visualização de treinos <br> - Registro de repetições e cargas <br> - Histórico de desempenho <br> - Comunicação com o personal <br> - Orientações rápidas e explicações de exercícios                                                              |
+| **Como o sistema espera que o usuário faça**            | - Acessar sua ficha direto pela tela inicial <br> - Registrar dados com botões simples <br> - Acompanhar gráficos de evolução <br> - Enviar dúvidas ao personal quando necessário                                                                     |
+| **O que o sistema sugere, permite e proíbe**            | **Sugere:** registro constante, consulta ao histórico, comunicação ativa <br> **Permite:** visualizar treinos, marcar exercícios, registrar dados <br> **Proíbe:** alterações na estrutura dos treinos definidos pelo personal                                                                                                                                                                                                             |
 
-![TEXTO](https://img.shields.io/badge/TEXTO-purple)
+## **VERSÃO NARRATIVA** – Metamensagem TrainerX64 (Aluno)
 
-![TEXTO](https://img.shields.io/badge/TEXTO-yellow)
+"Caro(a) aluno(a) do TrainerX64, eu entendo que você busca praticidade para acompanhar seus treinos, registrar sua evolução e manter uma rotina de exercícios organizada e clara. Você utiliza seu celular diariamente e precisa de uma ferramenta simples, rápida e acessível para seguir seu planejamento de forma consistente.
 
-![TEXTO](https://img.shields.io/badge/TEXTO-black)
+Pensando nisso, o TrainerX64 foi desenvolvido para reunir tudo o que você precisa para treinar bem: suas fichas, suas cargas registradas, sua evolução e a comunicação direta com o seu personal trainer. Meu objetivo é facilitar o seu progresso, oferecendo uma plataforma intuitiva e concentrada em te ajudar a manter ritmo e constância.
 
-![TEXTO](https://img.shields.io/badge/TEXTO-lightgrey)
+Aqui, você acessa sua ficha de treino rapidamente, visualiza instruções de cada exercício e registra seus resultados com poucos toques. Para que tudo seja fluido, organizei a navegação de forma clara e direta, permitindo que você registre séries, cargas e observações sem complicação. Assim, você consegue enxergar sua evolução e manter um acompanhamento transparente com seu personal.
 
-![TEXTO](https://img.shields.io/badge/TEXTO-brown)
+Também valorizo sua segurança e clareza: por isso, evito mudanças que possam comprometer seus registros e sempre apresento confirmações quando necessário. Cada ação que você realiza recebe um retorno imediato — seja ao marcar um exercício concluído, atualizar uma carga ou consultar seu histórico de desempenho.
 
-![TEXTO](https://img.shields.io/badge/TEXTO-blueviolet?style=plastic)
+No TrainerX64, minha intenção é tornar sua jornada de treino mais prática, motivadora e organizada. Quero ajudar você a evoluir com confiança, garantindo que cada registro, cada consulta e cada treino se torne parte de um processo simples, eficiente e realmente seu.
+
