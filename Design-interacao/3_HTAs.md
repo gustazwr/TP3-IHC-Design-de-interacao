@@ -24,3 +24,17 @@ Estes HTAs foram desenvolvidos com base direta nos artefatos produzidos na fase 
 # HTAs:
 
 ## Gerir mensalidades e pendências
+
+## Montar treino personalizado
+
+## Gerenciar Alunos
+
+## Organizar rotina de aulas
+
+## Realizar sequência de exercícios
+
+## Vizualizar instruções para treino
+
+## Salvar dados do exercício realizado
+
+## Adaptar interface para necessidades visuais
