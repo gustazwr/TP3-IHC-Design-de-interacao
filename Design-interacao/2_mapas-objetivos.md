@@ -16,7 +16,9 @@ Cria treinos, ajusta cargas, visualiza desempenho e orienta o aluno.
 AA → Objetivo exclusivo de acessibilidade  
 →  Instrumenta diretamente
 
-📌 Legendas dos Conjuntos de Objetivos — Markdown
+<img width="2498" height="1365" alt="Diagrama sem nome drawio (3)" src="https://github.com/user-attachments/assets/e0b7af4e-3b3d-4e5c-97f6-0651d091feab" />
+
+
 
 A seguir estão as legendas, cada uma descrevendo claramente o papel e a finalidade daquele grupo dentro do mapa de objetivos.
 
