@@ -19,3 +19,8 @@ Estes HTAs foram desenvolvidos com base direta nos artefatos produzidos na fase 
 
 
 **Mapa de Objetivos**: Cada HTA possui correspondência direta com um objetivo instrumental mapeado anteriormente, garantindo consistência conceitual no projeto.
+
+
+# HTAs:
+
+## Gerir mensalidades e pendências
