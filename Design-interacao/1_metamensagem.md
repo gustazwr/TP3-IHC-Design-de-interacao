@@ -4,7 +4,7 @@
 
 | Elemento do Template | Descrição Preenchida |
 |----------------------|-----------------------|
-| **Quem é o usuário** | Personal trainer que atende diversos alunos e usa ferramentas digitais para organizar treinos, rotinas, agendas e evolução. |
+| ![Quem é o usuário](https://img.shields.io/badge/Quem%20é%20o%20usuário-brightgreen) | Personal trainer que atende diversos alunos e usa ferramentas digitais para organizar treinos, rotinas, agendas e evolução. |
 | **O que o usuário quer fazer** | Modernizar o acompanhamento dos clientes, organizar sua rotina e centralizar informações em uma ferramenta intuitiva. |
 | **O que o usuário sabe fazer** | - Usa Android e notebook diariamente <br> - Prefere interfaces visuais como Trello e Google Agenda <br> - Evita apps com menus excessivos e anúncios <br> - Aprende explorando sozinho <br> - Usa tutoriais no primeiro contato <br> - Memoriza ícones e cores melhor que textos longos <br> - É comunicativo nas redes sociais profissionalmente |
 | **Como o usuário prefere fazer** | Com fluxos simples, diretos, poucos cliques e visual limpo. Utiliza smartphone e notebook como principais dispositivos. |
@@ -17,7 +17,6 @@
 
 ## **VERSÃO NARRATIVA** – Metamensagem TrainerX64
 
-
 "Caro(a) usuário(a) do TrainerX64, eu entendi que você, como personal trainer, utiliza tecnologia diariamente e valoriza ferramentas visuais, simples e rápidas. Sei que você busca modernizar o acompanhamento dos seus alunos, mantendo uma rotina profissional mais organizada, produtiva e fácil de administrar.
 
 Com base nas suas necessidades, eu criei o TrainerX64, um sistema pensado para centralizar tudo aquilo que é essencial no seu trabalho: treinos, histórico de cargas, pagamentos, evolução e comunicação. Minha intenção é evitar que você dependa de vários aplicativos diferentes para fazer tarefas básicas, oferecendo um ambiente único, enxuto e intuitivo, onde tudo está sempre ao seu alcance.
@@ -27,6 +26,22 @@ Aqui, você consegue encontrar rapidamente qualquer aluno, visualizar sua ficha 
 Também sei que a segurança e a clareza são importantes no seu dia a dia. Por isso, o TrainerX64 evita ações que possam comprometer dados importantes, exigindo confirmações em exclusões e autenticações em operações sensíveis. Cada informação é comunicada de forma transparente por meio de mensagens claras, avisos explicativos, feedback visual imediato e orientações rápidas.
 
 Com o TrainerX64, a proposta é tornar sua rotina mais prática, moderna e eficiente. Meu objetivo é ajudar você a trabalhar com mais organização, produtividade e confiança — permitindo que cada atualização, cada consulta e cada decisão aconteça da maneira mais simples e profissional possível."
+![TEXTO](https://img.shields.io/badge/TEXTO-brightgreen)
 
+![TEXTO](https://img.shields.io/badge/TEXTO-blue)
 
+![TEXTO](https://img.shields.io/badge/TEXTO-red)
 
+![TEXTO](https://img.shields.io/badge/TEXTO-orange)
+
+![TEXTO](https://img.shields.io/badge/TEXTO-purple)
+
+![TEXTO](https://img.shields.io/badge/TEXTO-yellow)
+
+![TEXTO](https://img.shields.io/badge/TEXTO-black)
+
+![TEXTO](https://img.shields.io/badge/TEXTO-lightgrey)
+
+![TEXTO](https://img.shields.io/badge/TEXTO-brown)
+
+![TEXTO](https://img.shields.io/badge/TEXTO-blueviolet?style=plastic)
