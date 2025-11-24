@@ -9,7 +9,7 @@ Trabalho Prático 3 - Parte 2 - Design de Interação - Engenharia de Software
 
 ## 📂 Estrutura do repositório
 - [1 – Metamensagem](Design-interacao/1_metamensagem.md)
-- [2 – Mapas-Objetivos](2_mapas-objetivos.md)
+- [2 – Mapas-Objetivos](Design-interacao/2_mapas-objetivos.md)
 - [3 – HTAs](3_HTAs.md)
 - [4 – Diagramas-MoliC](4_diagramas-MoLIC.md)
 - [5 – Sketches](5_sketches.md)
