@@ -24,17 +24,26 @@ Estes HTAs foram desenvolvidos com base direta nos artefatos produzidos na fase 
 # HTAs:
 
 ## Gerir mensalidades e pendências
+<img width="675" height="175" alt="Captura de tela 2025-11-24 183356" src="https://github.com/user-attachments/assets/f4ca8e25-cabf-46c6-af93-360918da0ac7" />
+
 
 ## Montar treino personalizado
+<img width="677" height="240" alt="Captura de tela 2025-11-24 183528" src="https://github.com/user-attachments/assets/b73e1756-ddc7-4e7e-b7ac-015fff6379db" />
 
 ## Gerenciar Alunos
+<img width="680" height="239" alt="image" src="https://github.com/user-attachments/assets/85deb0cd-a19a-4a91-98c6-6f6fe29d2af3" />
 
 ## Organizar rotina de aulas
+<img width="678" height="179" alt="image" src="https://github.com/user-attachments/assets/b26fd2b1-d9b6-4fb1-9ddf-5aad0250aa30" />
 
 ## Realizar sequência de exercícios
+<img width="712" height="233" alt="image" src="https://github.com/user-attachments/assets/71c763d7-aca0-4a14-96b2-b37e36edb882" />
 
 ## Vizualizar instruções para treino
+<img width="711" height="166" alt="image" src="https://github.com/user-attachments/assets/5212b4dc-f99a-402c-b076-373f58b84c02" />
 
 ## Salvar dados do exercício realizado
+<img width="706" height="221" alt="image" src="https://github.com/user-attachments/assets/2887c5fd-71f8-47bf-b08e-a8bfdf8c18ae" />
 
 ## Adaptar interface para necessidades visuais
+<img width="698" height="322" alt="image" src="https://github.com/user-attachments/assets/93cb6781-f5a2-4a02-8a03-92416c759b58" />
