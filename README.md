@@ -8,11 +8,11 @@ Trabalho Prático 3 - Parte 2 - Design de Interação - Engenharia de Software
 - Adriano Monteiro Rolim — 22551471
 
 ## 📂 Estrutura do repositório
-- [1 – Metamensagem](1_metamensagem/metamensagem.md)
-- [2 – Mapas-Objetivos](2_mapas-objetivos/mapas-objetivos.md)
-- [3 – HTAs](3_HTAs/htas.md)
-- [4 – Diagramas-MoliC](4_diagramas-molic/molic.md)
-- [5 – Esboços](5_esbocos/esbocos.md)
+- [1 – Metamensagem](1_metamensagem.md)
+- [2 – Mapas-Objetivos](2_mapas-objetivos.md)
+- [3 – HTAs](3_HTAs.md)
+- [4 – Diagramas-MoliC](4_diagramas-MoLIC.md)
+- [5 – Sketches](5_sketches.md)
     
 
 ## 📝 Resumo do sistema
