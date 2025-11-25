@@ -8,7 +8,7 @@ Cada esboço foi cuidadosamente elaborado para equilibrar **funcionalidade** e *
 
 ---
 
-As analise para fazer as sketches foram feistas pelas HTA do Julio e o  MOLIC do Eduardo
+As analise para fazer as sketches foram feistas pelos  MOLIC do Eduardo
 
 ## 📱 TEMPLATE PARA SKETCHES
 ### Sketch Completo: 
