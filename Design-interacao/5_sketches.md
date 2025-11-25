@@ -8,6 +8,8 @@ Cada esboço foi cuidadosamente elaborado para equilibrar **funcionalidade** e *
 
 ---
 
+As analise para fazer as sketches foram feistas pelas HTA do Julio e o  MOLIC do Eduardo
+
 ## 📱 TEMPLATE PARA SKETCHES
 ### Sketch Completo: 
 <img width="1067" height="432" alt="image" src="https://github.com/user-attachments/assets/71f76440-e88f-4228-87b2-882ac220b2ca" />
