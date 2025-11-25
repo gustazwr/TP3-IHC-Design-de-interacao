@@ -22,6 +22,7 @@ Estes HTAs foram desenvolvidos com base direta nos artefatos produzidos na fase 
 
 
 # HTAs:
+Abaixo estão os 8 HTAs selecionados acompanhado de seus respectivos objetivos e uma descrição da sua funcionalidade.
 
 ## Gerir mensalidades e pendências
 <img width="675" height="175" alt="Captura de tela 2025-11-24 183356" src="https://github.com/user-attachments/assets/f4ca8e25-cabf-46c6-af93-360918da0ac7" />
@@ -33,7 +34,8 @@ Estes HTAs foram desenvolvidos com base direta nos artefatos produzidos na fase 
 
 ## Gerenciar Alunos
 <img width="680" height="239" alt="image" src="https://github.com/user-attachments/assets/85deb0cd-a19a-4a91-98c6-6f6fe29d2af3" />
-<img width="1022" height="504" alt="gerenciar drawio" src="https://github.com/user-attachments/assets/a17ea981-365c-4bfd-9576-e6300e2d9ac3" />
+<img width="1022" height="504" alt="HTAs drawio (1)" src="https://github.com/user-attachments/assets/a8f25ee0-aafe-4099-93cc-660f574e44ae" />
+
 
 
 ## Organizar rotina de aulas
