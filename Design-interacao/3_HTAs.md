@@ -34,8 +34,7 @@ Abaixo estão os 8 HTAs selecionados acompanhado de seus respectivos objetivos e
 
 ## Gerenciar Alunos
 <img width="680" height="239" alt="image" src="https://github.com/user-attachments/assets/85deb0cd-a19a-4a91-98c6-6f6fe29d2af3" />
-<img width="1022" height="504" alt="HTAs drawio (1)" src="https://github.com/user-attachments/assets/a8f25ee0-aafe-4099-93cc-660f574e44ae" />
-
+<img width="1022" height="504" alt="HTAs drawio (2)" src="https://github.com/user-attachments/assets/954293e4-5b32-4eb2-9a69-c3859fcd7143" />
 
 
 ## Organizar rotina de aulas
