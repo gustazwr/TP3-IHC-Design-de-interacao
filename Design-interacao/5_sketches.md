@@ -10,6 +10,8 @@ Cada esboço foi cuidadosamente elaborado para equilibrar **funcionalidade** e *
 
 ## 📱 TEMPLATE PARA SKETCHES
 
-### Sketch [NÚMERO]: [NOME DA TELA]
+### Sketch 1: [MENU]
+<img width="205" height="298" alt="TRAINER X64" src="https://github.com/user-attachments/assets/34471158-95b3-4ec9-b5c8-f3cdb4a60063" />
+
 
 
