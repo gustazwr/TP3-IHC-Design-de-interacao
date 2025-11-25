@@ -32,6 +32,10 @@ Cada esboço foi cuidadosamente elaborado para equilibrar **funcionalidade** e *
 ### Sketch 5: [Configuração de Acessibilidade]
 <img width="423" height="555" alt="image" src="https://github.com/user-attachments/assets/0b180d70-0a43-4ed6-a586-5f1d089eaa54" />
 
+### Sketch B: [Usuario e Exercicios]
+
+
+
 
 
 
