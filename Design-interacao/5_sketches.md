@@ -17,6 +17,10 @@ Cada esboço foi cuidadosamente elaborado para equilibrar **funcionalidade** e *
 ### Sketch 2: [MENU]
 <img width="417" height="593" alt="image" src="https://github.com/user-attachments/assets/f4eb30c3-aa3b-43b9-96ea-3add1d6dddf1" />
 
+### Sketch 3: [MENU]
+<img width="418" height="602" alt="image" src="https://github.com/user-attachments/assets/a81c6c08-0dc6-4b5b-94e1-19a72a84e2b6" />
+
+
 
 
 
