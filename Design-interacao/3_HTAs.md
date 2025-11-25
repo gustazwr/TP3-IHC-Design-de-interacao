@@ -29,21 +29,34 @@ Estes HTAs foram desenvolvidos com base direta nos artefatos produzidos na fase 
 
 ## Montar treino personalizado
 <img width="677" height="240" alt="Captura de tela 2025-11-24 183528" src="https://github.com/user-attachments/assets/b73e1756-ddc7-4e7e-b7ac-015fff6379db" />
+<img width="1413" height="576" alt="HTAs drawio" src="https://github.com/user-attachments/assets/2d13d368-71e4-4623-8571-053f487adefc" />
 
 ## Gerenciar Alunos
 <img width="680" height="239" alt="image" src="https://github.com/user-attachments/assets/85deb0cd-a19a-4a91-98c6-6f6fe29d2af3" />
+<img width="1022" height="504" alt="gerenciar drawio" src="https://github.com/user-attachments/assets/a17ea981-365c-4bfd-9576-e6300e2d9ac3" />
+
 
 ## Organizar rotina de aulas
 <img width="678" height="179" alt="image" src="https://github.com/user-attachments/assets/b26fd2b1-d9b6-4fb1-9ddf-5aad0250aa30" />
 
+
+
 ## Realizar sequência de exercícios
 <img width="712" height="233" alt="image" src="https://github.com/user-attachments/assets/71c763d7-aca0-4a14-96b2-b37e36edb882" />
+<img width="915" height="374" alt="exerc drawio" src="https://github.com/user-attachments/assets/210be2e9-b938-41f3-b840-d494da7cd76a" />
+
 
 ## Vizualizar instruções para treino
 <img width="711" height="166" alt="image" src="https://github.com/user-attachments/assets/5212b4dc-f99a-402c-b076-373f58b84c02" />
+<img width="522" height="328" alt="instruções drawio" src="https://github.com/user-attachments/assets/455f877b-0cbb-4062-b22b-a305231cbb1b" />
+
 
 ## Salvar dados do exercício realizado
 <img width="706" height="221" alt="image" src="https://github.com/user-attachments/assets/2887c5fd-71f8-47bf-b08e-a8bfdf8c18ae" />
+<img width="473" height="497" alt="salvart drawio" src="https://github.com/user-attachments/assets/304343f9-208b-48bc-987e-8f595e1079d6" />
 
 ## Adaptar interface para necessidades visuais
 <img width="698" height="322" alt="image" src="https://github.com/user-attachments/assets/93cb6781-f5a2-4a02-8a03-92416c759b58" />
+<img width="1171" height="569" alt="acessibilidade drawio" src="https://github.com/user-attachments/assets/0da4da7d-fa29-46e6-9676-d0be50c60bea" />
+
+
