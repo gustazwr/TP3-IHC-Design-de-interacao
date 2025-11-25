@@ -6,3 +6,15 @@ Eixo Central (Aluno Regular): Concentra-se no conteúdo e na experiência do alu
 
 Eixo Inferior (Aluno com Deficiência): Apresenta os módulos especializados e inclusivos focados no atendimento e no treinamento de alunos com deficiência. Esta seção é crucial para garantir a acessibilidade e a adequação dos programas de treino, abordando adaptações, considerações específicas e protocolos de segurança para essa população.
 
+## Molic Geral:
+bota a imagem aqui para
+
+
+
+
+## Diagrama do personal
+# Este diagrama Molic detalha o fluxo de trabalho e o conhecimento essencial do Personal Trainer (PT) dentro de um sistema de academia. Ele mapeia de forma estruturada as etapas cruciais, desde a avaliação inicial do cliente e a prescrição do treinamento individualizado, até o acompanhamento contínuo e a necessidade de reajustes no plano de treino, garantindo um serviço profissional e sistematizado.
+
+ai tu coloca a imagem do molic de personal
+
+
