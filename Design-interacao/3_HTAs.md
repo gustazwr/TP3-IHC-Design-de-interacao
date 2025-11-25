@@ -26,6 +26,8 @@ Abaixo estão os 8 HTAs selecionados acompanhado de seus respectivos objetivos e
 
 ## Gerir mensalidades e pendências
 <img width="675" height="175" alt="Captura de tela 2025-11-24 183356" src="https://github.com/user-attachments/assets/f4ca8e25-cabf-46c6-af93-360918da0ac7" />
+<img width="1023" height="573" alt="finan drawio" src="https://github.com/user-attachments/assets/1e25a960-15d3-497f-ad55-75e1a9262504" />
+
 
 
 ## Montar treino personalizado
