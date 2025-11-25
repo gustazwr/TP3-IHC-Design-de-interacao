@@ -12,13 +12,23 @@ Cada esboço foi cuidadosamente elaborado para equilibrar **funcionalidade** e *
 
 ### Sketch 1: [MENU]
 <img width="408" height="565" alt="TRAINER X64" src="https://github.com/user-attachments/assets/9c7e616b-737b-477c-88d3-be218469d08c" />
+
+
 ### Sketch 2: [MENU]
 <img width="417" height="593" alt="image" src="https://github.com/user-attachments/assets/f4eb30c3-aa3b-43b9-96ea-3add1d6dddf1" />
 
+
 ### Sketch 3: [MENU]
 <img width="418" height="602" alt="image" src="https://github.com/user-attachments/assets/a81c6c08-0dc6-4b5b-94e1-19a72a84e2b6" />
+
+
 ### Sketch 4: [MENU]
 <img width="407" height="552" alt="image" src="https://github.com/user-attachments/assets/8109abc7-5a69-482d-98b0-035697614190" />
+
+
+### Sketch 5: [MENU]
+<img width="423" height="555" alt="image" src="https://github.com/user-attachments/assets/0b180d70-0a43-4ed6-a586-5f1d089eaa54" />
+
 
 
 
