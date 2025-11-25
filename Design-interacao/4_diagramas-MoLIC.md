@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1QkaA3uziSnkOCSmuKErqBuvODU3aUALJ/view?usp=shari
 (Selecione para abrir com o Draw.io na página 3)
 
 # Diagrama do aluno com acessibilidade
-## Este diagrama Molic detalha o processo especializado de treinamento para alunos com deficiência (PcD), com foco primário no desenvolvimento da sua autonomia e inclusão no ambiente da academia. O fluxo é mais complexo devido à necessidade de uma avaliação inicial aprofundada e da prescrição de programas de treino altamente adaptados. O diagrama guia o processo desde a análise das limitações e capacidades específicas do aluno até a implementação de estratégias que fomentam a independência, segurança e participação efetiva no treinamento.
+## Este diagrama Molic detalha o processo especializado de treinamento para alunos com deficiência (PcD) ou acessibilidade, com foco primário no desenvolvimento da sua autonomia e inclusão no ambiente da academia. O fluxo é mais complexo devido à necessidade de uma avaliação inicial aprofundada e da prescrição de programas de treino altamente adaptados. O diagrama guia o processo desde a análise das limitações e capacidades específicas do aluno até a implementação de estratégias que fomentam a independência, segurança e participação efetiva no treinamento.
 https://drive.google.com/file/d/1QkaA3uziSnkOCSmuKErqBuvODU3aUALJ/view?usp=sharing
 
 (Selecione para abrir com o Draw.io na página 4)
