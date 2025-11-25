@@ -71,7 +71,8 @@ Esta funcionalidade é direcionada ao aluno, sendo seu papel executar os exercí
 Esta funcionalidade permite ao aluno em cada exercício que ele estiver fazendo visualizar as intruções para executar, como o vídeo anexado e as intruções epecíficas do personal, tirando suas dúvidas e voltando ao treino.  
 
 <img width="711" height="166" alt="image" src="https://github.com/user-attachments/assets/5212b4dc-f99a-402c-b076-373f58b84c02" />
-<img width="522" height="328" alt="instruções drawio" src="https://github.com/user-attachments/assets/455f877b-0cbb-4062-b22b-a305231cbb1b" />
+<img width="521" height="328" alt="visu drawio" src="https://github.com/user-attachments/assets/b3553dd0-5ca6-458c-936a-f59f35c1ef34" />
+
 
 
 ## Salvar dados do exercício realizado  
