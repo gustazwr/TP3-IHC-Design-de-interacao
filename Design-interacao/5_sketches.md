@@ -39,6 +39,15 @@ Cada esboço foi cuidadosamente elaborado para equilibrar **funcionalidade** e *
 <img width="1045" height="712" alt="image" src="https://github.com/user-attachments/assets/86148380-7f10-498c-864c-e8d81b792b8d" />
 
 
+#  Decisão de Design - Seleção de Variantes
+
+##  Resultado da Validação de Protótipos
+
+**"Após análise criteriosa e testes de usabilidade, as variantes da Série A foram consagradas como as escolhas definitivas para o sistema, enquanto as propostas da Série B registraram um saldo significativamente negativo de aprovação entre os usuários."**
+
+
+
+
 
 
 
