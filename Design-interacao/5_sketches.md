@@ -9,6 +9,9 @@ Cada esboço foi cuidadosamente elaborado para equilibrar **funcionalidade** e *
 ---
 
 ## 📱 TEMPLATE PARA SKETCHES
+### Sketch Completo: 
+<img width="1067" height="432" alt="image" src="https://github.com/user-attachments/assets/71f76440-e88f-4228-87b2-882ac220b2ca" />
+
 
 ### Sketch 1: [MENU]
 <img width="408" height="565" alt="TRAINER X64" src="https://github.com/user-attachments/assets/9c7e616b-737b-477c-88d3-be218469d08c" />
