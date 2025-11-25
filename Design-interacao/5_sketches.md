@@ -33,6 +33,12 @@ Cada esboço foi cuidadosamente elaborado para equilibrar **funcionalidade** e *
 <img width="423" height="555" alt="image" src="https://github.com/user-attachments/assets/0b180d70-0a43-4ed6-a586-5f1d089eaa54" />
 
 ### Sketch B: [Usuario e Exercicios]
+<img width="463" height="580" alt="image" src="https://github.com/user-attachments/assets/747592f0-ce0f-4d1e-95fe-617997d61b98" />
+
+### Sketch Completo junto com as versões A e B: 
+<img width="1045" height="712" alt="image" src="https://github.com/user-attachments/assets/86148380-7f10-498c-864c-e8d81b792b8d" />
+
+
 
 
 
