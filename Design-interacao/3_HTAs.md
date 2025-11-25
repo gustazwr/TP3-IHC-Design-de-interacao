@@ -41,6 +41,7 @@ Abaixo estão os 8 HTAs selecionados acompanhado de seus respectivos objetivos e
 
 ## Organizar rotina de aulas
 <img width="678" height="179" alt="image" src="https://github.com/user-attachments/assets/b26fd2b1-d9b6-4fb1-9ddf-5aad0250aa30" />
+<img width="1102" height="375" alt="agenda drawio" src="https://github.com/user-attachments/assets/45f83e06-e08f-4832-80c2-30e39d0ed6ed" />
 
 
 
