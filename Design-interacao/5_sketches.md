@@ -11,7 +11,11 @@ Cada esboço foi cuidadosamente elaborado para equilibrar **funcionalidade** e *
 ## 📱 TEMPLATE PARA SKETCHES
 
 ### Sketch 1: [MENU]
-<img width="205" height="298" alt="TRAINER X64" src="https://github.com/user-attachments/assets/34471158-95b3-4ec9-b5c8-f3cdb4a60063" />
+<img width="408" height="565" alt="TRAINER X64" src="https://github.com/user-attachments/assets/9c7e616b-737b-477c-88d3-be218469d08c" />
+
+
+### Sketch 2: [MENU]
+
 
 
 
