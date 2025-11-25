@@ -6,7 +6,7 @@ Eixo Central (Aluno Regular): Concentra-se no conteúdo e na experiência do alu
 
 Eixo Inferior (Aluno com Deficiência): Apresenta os módulos especializados e inclusivos focados no atendimento e no treinamento de alunos com deficiência. Esta seção é crucial para garantir a acessibilidade e a adequação dos programas de treino, abordando adaptações, considerações específicas e protocolos de segurança para essa população.
 
-## Molic Geral:
+# Molic Geral:
 bota a imagem aqui para
 
 
