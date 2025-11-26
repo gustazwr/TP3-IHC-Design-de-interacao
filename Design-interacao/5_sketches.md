@@ -1,51 +1,39 @@
-# 🎨 Protótipos de Baixa Fidelidade - TraíneX64
+# Protótipos de Baixa Fidelidade - TrainerX64
 
-## 🌟 Introdução
+## Introdução
 
-Bem-vindo ao processo de design de interação do **TraínezX64**! Estes protótipos representam a materialização inicial das nossas ideias, traduzindo conceitos abstratos em interfaces tangíveis. Através destes sketches, buscamos validar fluxos, testar usabilidade e garantir que cada pixel conte uma história que ressoe com nossos usuários.
+>Os protótipos de baixa fidelidade do **TrainerX64** representam a etapa inicial de visualização da interface do sistema dentro do processo de design definido no TP3. Nesta fase, estruturamos a organização das telas, os principais fluxos de navegação e a disposição dos elementos essenciais, sem preocupação com detalhes visuais finais.
 
-Cada esboço foi cuidadosamente elaborado para equilibrar **funcionalidade** e **emoção**, criando uma base sólida para a evolução do nosso produto. Esta é a primeira conversa visual entre o sistema e seus futuros usuários.
+>O objetivo desta etapa é validar ideias rapidamente, testar a lógica de uso, identificar melhorias de usabilidade e garantir que o fluxo principal atenda às necessidades das personas definidas anteriormente. Os sketches funcionam como uma representação simples e direta das primeiras decisões de design, permitindo ajustes antes da criação dos protótipos de média e alta fidelidade.
 
----
+-----
 
-As analise para fazer as sketches foram feistas pelos  MOLIC do Eduardo
-
-## 📱 TEMPLATE PARA SKETCHES
-### Sketch Completo: 
-<img width="1067" height="432" alt="image" src="https://github.com/user-attachments/assets/71f76440-e88f-4228-87b2-882ac220b2ca" />
-
+### Modelo Geral 
+<img width="1020" height="541" alt="sketches-Página-1 drawio" src="https://github.com/user-attachments/assets/36c1e93b-f839-46ce-965c-5e07351267ac" />
 
 ### Sketch 1: [MENU]
-<img width="408" height="565" alt="TRAINER X64" src="https://github.com/user-attachments/assets/9c7e616b-737b-477c-88d3-be218469d08c" />
-
+<img width="682" height="919" alt="sketches-Página-1 drawio (12)" src="https://github.com/user-attachments/assets/7354ec90-f929-454c-8936-3e2729be2a54" />
 
 ### Sketch 2: [Usuario]
-<img width="417" height="593" alt="image" src="https://github.com/user-attachments/assets/f4eb30c3-aa3b-43b9-96ea-3add1d6dddf1" />
-
+<img width="663" height="749" alt="sketches-Página-1 drawio (11)" src="https://github.com/user-attachments/assets/effd663b-1a5c-4de1-a69f-e77a331fce19" />
 
 ### Sketch 3: [Exercicios]
-<img width="418" height="602" alt="image" src="https://github.com/user-attachments/assets/a81c6c08-0dc6-4b5b-94e1-19a72a84e2b6" />
-
+<img width="564" height="854" alt="sketches-Página-1 drawio (5)" src="https://github.com/user-attachments/assets/ccb2d23e-0b60-40d3-9022-78bd435cc71c" />
 
 ### Sketch 4: [Financeiro]
-<img width="407" height="552" alt="image" src="https://github.com/user-attachments/assets/8109abc7-5a69-482d-98b0-035697614190" />
-
+<img width="955" height="773" alt="sketches-Página-1 drawio (8)" src="https://github.com/user-attachments/assets/e6b05eb0-94ee-4b1f-bce4-f4a1e57bad51" />
 
 ### Sketch 5: [Configuração de Acessibilidade]
-<img width="423" height="555" alt="image" src="https://github.com/user-attachments/assets/0b180d70-0a43-4ed6-a586-5f1d089eaa54" />
+<img width="584" height="501" alt="sketches-Página-1 drawio (9)" src="https://github.com/user-attachments/assets/ada9ab58-f033-459d-993d-fae17d847b88" />
 
 ### Sketch B: [Usuario e Exercicios]
-<img width="463" height="580" alt="image" src="https://github.com/user-attachments/assets/747592f0-ce0f-4d1e-95fe-617997d61b98" />
-
-### Sketch Completo junto com as versões A e B: 
-<img width="1045" height="712" alt="image" src="https://github.com/user-attachments/assets/86148380-7f10-498c-864c-e8d81b792b8d" />
-
+<img width="761" height="461" alt="sketches-Página-1 drawio (4)" src="https://github.com/user-attachments/assets/69246ae8-d3a7-4b00-babb-71c2be3fd714" />
 
 #  Decisão de Design - Seleção de Variantes
 
-##  Resultado da Validação de Protótipos
-
-**"Após análise criteriosa e testes de usabilidade, as variantes da Série A foram consagradas como as escolhas definitivas para o sistema, enquanto as propostas da Série B registraram um saldo significativamente negativo de aprovação entre os usuários."**
+### Resultado da Validação de Protótipos
+>Após a validação dos protótipos de baixa fidelidade e a análise dos feedbacks coletados durante os testes de usabilidade, as variantes pertencentes à Série A demonstraram melhor desempenho em clareza, organização das telas e compreensão dos fluxos. Por esse motivo, foram selecionadas como base para a evolução do design do TrainerX64.
+>As variantes da Série B apresentaram menor aceitação entre os avaliadores, principalmente em aspectos relacionados à navegação e consistência visual. Assim, não foram escolhidas para seguir para as próximas etapas de prototipação.
 
 
 
